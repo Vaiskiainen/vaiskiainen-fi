@@ -1,0 +1,6 @@
+{
+  "name": "vaiskiainen",
+  "description": "Personal website with a hero section, projects and contributions",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

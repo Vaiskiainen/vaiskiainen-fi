@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "TestPlugins",
+    "description": "My plugins for vendetta like modded Discord clients.",
+    "full_description": "",
+    "image_url": "https://raw.githubusercontent.com/Vaiskiainen/testplugins/refs/heads/master/images/testplugins_promo.png",
+    "github_url": "https://github.com/Vaiskiainen/testplugins",
+    "website_url": "https://vaiskiainen.github.io/testplugins/",
+    "tags": ["TypeScript"]
+  },
+  {
+    "id": 2,
+    "name": "Vaiskiainen.fi",
+    "description": "The site that you are currently on",
+    "full_description": "My personal corner of the internet",
+    "image_url": "",
+    "github_url": "https://github.com/vaiskiainen/vaiskiainen.fi",
+    "website_url": "https://vaiskiainen.fi/",
+    "tags": ["React", "Framer Motion", "Tailwind CSS"]
+  },
+  {
+    "id": 3,
+    "name": "Planly",
+    "description": "Planly is a smart travel planner",
+    "full_description": "Planly is a smart travel planner made by Vaiskiainen",
+    "image_url": "",
+    "website_url": "https://planly.vaiskiainen.fi/",
+    "tags": ["React", "Tailwind CSS"]
+  },
+  {
+    "id": 4,
+    "name": "DiscordChristmasCounter",
+    "description": "A simple python script that sends the days until Christmas Eve with a discord webhook ",
+    "full_description": "ChristmasCounter is a simple python script that send the days until Christmas Eve and an image with a discord webhook 🎄",
+    "image_url": "https://camo.githubusercontent.com/fd479c394afa1a63c270f7a079b42c30529ddbd61968a99b19800c88ab63d91f/68747470733a2f2f692e6962622e636f2f364a314e543148432f53637265656e73686f742d5069636b6c652d4368726973746d61732d436f756e7465722e706e67",
+    "github_url": "https://github.com/Vaiskiainen/DiscordChirtmasCounter",
+    "tags": ["Python", "Bot", "Discord", "Webhooks"]
+  },
+  {
+    "id": 5,
+    "name": "RainPlugins",
+    "description": " My Plugins For The Rain Discord Mobile Client ",
+    "full_description": "My Plugins For The Rain Discord Mobile Client ",
+    "image_url": "https://raw.githubusercontent.com/Vaiskiainen/RainPlugins/refs/heads/main/images/rainpluginspromo.png",
+    "github_url": "https://github.com/Vaiskiainen/RainPlugins",
+    "tags": ["Typescript", "React", "Reverse engineering"]
+  },
+  {
+    "id": 6,
+    "name": "Vaiscrypt",
+    "description": "A pretty bad encryption language made in one evening",
+    "full_description": "A pretty bad encryption language made in one evening",
+    "image_url": "",
+    "website_url": "https://vaiscrypt.vaiskiainen.fi/",
+    "github_url": "https://github.com/Vaiskiainen/vaiscrypt",
+    "tags": [""]
+  }
+]
