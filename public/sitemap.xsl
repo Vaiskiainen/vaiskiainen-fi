@@ -66,7 +66,7 @@
         <div id="content">
           <h1>XML Sitemap</h1>
           <p>
-            This is an XML Sitemap designed to be easily read by humans and crawled by search engines like Google.
+            A pretty cool XML sitemap.
             You can find more information about XML sitemaps at <a href="http://sitemaps.org">sitemaps.org</a>.
           </p>
           <xsl:if test="count(sitemap:sitemapindex/sitemap:sitemap) &gt; 0">
